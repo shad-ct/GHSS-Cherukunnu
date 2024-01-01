@@ -452,3 +452,22 @@ a:focus {
 }
 
 /* end footer section*/
+
+/* CLUB*/
+
+.club{
+  display:inline;
+  color: black;
+  font-size: 3vh;
+  margin-left: 1vh;
+  background-color: #4c79e033;
+  border-radius: 20px;
+}
+
+#spc-div{
+  margin-top: 3vh;
+  background-color: rgba(0, 0, 255, 0.199);
+  border-radius: 20px;
+  padding: 20px;
+  height: 100%;
+}
